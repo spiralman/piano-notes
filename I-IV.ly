@@ -6,6 +6,10 @@
   ragged-right = #f
 }
 
+\paper {
+  #(set-paper-size "letter")
+}
+
 \header {
   title = "I-IV Progression"
   tagline = "From Introduction to Jazz Piano - A Deep Dive"
